@@ -17,18 +17,12 @@ Plugin that brings agile functionalities to [Redmine](http://www.redmine.org) an
 - Browsers: Chrome, Safari, Internet Explorer and Firefox
 
 #### Installation
-1. Clone repository into folder Redmine **plugins** folder:
-
+1. Clone repository into Redmine **plugins** folder:
 `$ git clone https://github.com/nti-ufpe/redmine_agile`
-
 2. Run bundle install
-
 `$ bundle install`
-
 3. Migrate database
-
 `$ rake redmine:plugins NAME=redmine_agile`
-
 4. Start application
 
 #### Version
