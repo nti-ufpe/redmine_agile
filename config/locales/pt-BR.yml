@@ -22,7 +22,7 @@ pt-BR:
   label_agile_charts_number_of_hours: Número de horas
   label_agile_charts_number_of_issues: Número de tarefas
   label_agile_charts_cumulative_flow: Fluxo acumulado 
-  label_agile_charts_trackers_cumulative_flow: Fulxo de tarefas
+  label_agile_charts_trackers_cumulative_flow: Fluxo de tarefas
   label_agile_charts_issues_velocity: Velocidade
   label_agile_charts_lead_time: Tempo de espera
   label_agile_charts_average_lead_time: Tempo médio de espera
@@ -57,7 +57,7 @@ pt-BR:
   label_agile_issue_priority_colors: Cores das tarefas por prioridade
   label_agile_color_based_on: Cor baseada em
   label_agile_color_no_colors: Sem cor
-  label_agile_manage_colors: Manage colors
+  label_agile_manage_colors: Gerenciar cores
   label_agile_fullscreen: Tela Cheia
   label_agile_no_version_issues: Tarefas sem versão
   label_agile_charts_work_burnup: Trabalho burnup
@@ -67,4 +67,4 @@ pt-BR:
   label_agile_board_items_limit: Limite de itens no Quadro Agile
   label_agile_swimlanes: Raias
   label_agile_minimize_closed: Minimizar tarefas concluídas
-  label_agile_fields: Campos do cartão
+  label_agile_fields: Campos do card
