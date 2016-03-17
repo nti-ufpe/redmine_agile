@@ -28,8 +28,8 @@ pt-BR:
   label_agile_charts_average_lead_time: Tempo médio de espera
   label_agile_chart_plural: Quadros Agile
   permission_view_agile_charts: Visualizar quadros agile
-  label_agile_ideal_work_remaining: Ideal
-  label_agile_actual_work_remaining: Real
+  label_agile_ideal_work_remaining: Trabalho ideal restante
+  label_agile_actual_work_remaining: Trablho real restante
   label_agile_chart: Gráfico
   label_agile_date_from: De
   label_agile_date_to: Para
@@ -40,7 +40,7 @@ pt-BR:
   label_agile_charts_number_of_days: Número de dias
   label_agile_too_many_items: "O gráfico não pode ser criado porque excede o número máximo de itens que podem ser exibidos (%{max})"
   label_agile_time_reports_items_limit: Tempo gasto baseado no limite de quadro de tarefas
-  label_agile_total_work_remaining: Total
+  label_agile_total_work_remaining: Trabalho total restante
   label_agile_default_chart: Versão padrão do quadro
 
   #1.1.1
